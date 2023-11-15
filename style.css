@@ -1,0 +1,39 @@
+#root {
+    background-color: #6a9e5965;
+    color: black;
+    font-size: 21px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1 {
+    background-color: #A6CF98;
+    font-weight: normal;
+    font-size: 3rem;
+    font-family: Agbalumo;
+    text-align: center;
+}
+
+p {
+    background-color: #557C55;
+    color: white;
+    font-size: 25px;
+    font-family: 'Rajdhani';
+    text-align: center;
+}
+
+h2 {
+    background-color: #557C55;
+    color: white;
+    font-size: 20px;
+    font-family: 'Rajdhani';
+    text-align: center;
+}
+
+footer {
+    background-color: #FA7070;
+    color: white;
+    font-size: 15px;
+    font-family: 'Rajdhani';
+    text-align: center;
+}
